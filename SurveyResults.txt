@@ -1,0 +1,54 @@
+Responder	Division	PostdocComm	MoreEvents	Type	Time	Able	OtherPostdocs
+1	COMGEN	Yes	Unsure	SkillSharing, Networking, ResearchForum, Careers, Social	Other	YesTime	Moderately
+2	IIM	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Social	Half-day	YesEncouraged	FairlyWell
+3	COMGEN	Yes	Yes	SkillSharing, ResearchForum, Social	Other	YesTime	Moderately
+4	COMGEN	Yes	Yes	Careers, Social	Half-day	Yes	Moderately
+5	PPN	Yes	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Half-day	Yes	Moderately
+6	PPN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	FullDay	YesTime	Moderately
+7	PPN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Half-day	YesEncouraged	VeryWell
+8	COMGEN	Yes	Unsure	Social	Hour	YesTime	Moderately
+9	IIM	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Half-day	YesTime	FairlyWell
+10	PPN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Half-day	YesTime	Moderately
+11	PPN	YesKnow	Yes	SkillSharing, Networking, ResearchForum	Half-day	YesTime	FairlyWell
+12	PPN	Yes	Yes	SkillSharing, Networking, ResearchForum, Careers	FullDay	YesTime	Moderately
+13	COMGEN	Yes	Unsure	SkillSharing, Networking, ResearchForum	Half-day	YesEncouraged	Moderately
+14	COMGEN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Social	MultipleDays	No	Moderately
+15	COMGEN	No	Unsure	ResearchForum, Careers	Half-day	YesTime	FairlyWell
+16	IIM	No	Yes	SkillSharing, Careers	Other	YesTime	Moderately
+17	PPN	YesKnow	Yes	SkillSharing, ResearchForum	Hour	YesTime	Moderately
+18	PPN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Half-day	YesEncouraged	Moderately
+19	IIM	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Hour	No	FairlyWell
+20	IIM	YesKnow	No	NoEvent	NoTime	YesEncouraged	FairlyWell
+21	PPN	Yes	No	SkillSharing, Careers, Social	Half-day	YesTime	FairlyWell
+22	COMGEN	Yes	Yes	SkillSharing, Careers, Other	Half-day	YesEncouraged	Moderately
+23	PPN	YesKnow	Yes	Careers	FullDay	YesEncouraged	Moderately
+24	IIM	Yes	Unsure	ResearchForum, Social	FullDay	Yes	Moderately
+25	PPN	YesKnow	Yes	SkillSharing, ResearchForum, Careers, Social, NoEvent	FullDay	YesTime	Moderately
+26	PPN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Hour	YesTime	Moderately
+27	IIM	Yes	Yes	SkillSharing, Networking, ResearchForum, Careers	Half-day	YesEncouraged	Moderately
+28	IIM	Yes	Unsure	ResearchForum	Half-day	YesTime	Moderately
+29	IIM	Yes	NA	SkillSharing	Hour	Yes	Poorly
+30	COMGEN	YesKnow	Yes	Careers, Social, Networking	FullDay	YesTime	Moderately
+31	IIM	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Hour	Yes	Moderately
+32	IIM	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Half-day	YesTime	FairlyWell
+33	COMGEN	YesKnow	Yes	SkillSharing, Networking, Careers, Social	FullDay	YesTime	Moderately
+34	COMGEN	Yes	Yes	SkillSharing, Networking, Careers, Social	Hour	YesEncouraged	Moderately
+35	COMGEN	Yes	Yes	SkillSharing, Careers	Half-day	YesTime	Moderately
+36	COMGEN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Half-day	YesTime	Moderately
+37	PPN	YesKnow	Yes	SkillSharing, ResearchForum, Careers	FullDay	YesEncouraged	Moderately
+38	IIM	YesKnow	Unsure	ResearchForum, Social	Hour	Yes	Moderately
+39	IIM	YesKnow	No	SkillSharing, ResearchForum, Social	Hour	YesTime	FairlyWell
+40	PPN	Yes	No	Careers	NoTime	Yes	Poorly
+41	DontKnow	Yes	Yes	Careers, Social	Hour	No	Moderately
+42	IIM	Yes	Unsure	SkillSharing, Networking, Careers	Other	YesTime	FairlyWell
+43	COMGEN	YesKnow	Yes	Networking, ResearchForum, Careers	Hour	YesTime	Moderately
+44	DontKnow	Yes	Yes	SkillSharing, Networking, Careers, Social	Half-day	YesEncouraged	Moderately
+45	DontKnow	YesKnow	Unsure	SkillSharing, Networking, ResearchForum	Half-day	YesTime	Moderately
+46	DontKnow	Yes	Unsure	SkillSharing, Networking, Careers	Half-day	YesTime	Moderately
+47	IIM	Yes	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Hour	Yes	FairlyWell
+48	COMGEN	YesKnow	Unsure	ResearchForum, Social	Hour	YesTime	Moderately
+49	COMGEN	Yes	Yes	ResearchForum, Careers	Half-day	YesTime	FairlyWell
+50	DontKnow	YesKnow	Yes	Social, Other	FullDay	No	Moderately
+51	COMGEN	YesKnow	Yes	SkillSharing, Networking, ResearchForum, Careers, Social	Hour	YesTime	Moderately
+52	IIM	No	Yes	SkillSharing, Networking, ResearchForum	Half-day	Yes	Moderately
+53	DontKnow	YesKnow	Yes	SkillSharing, Careers, Social	Half-day	YesTime	Moderately
