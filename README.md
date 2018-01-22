@@ -6,7 +6,7 @@ Results are plotted in R and all comments/suggestions are included in tables.
 If you want to add something to this then clone the repository and run Jupyter Notebooks:
 
 ```
-clone https://github.com/TeriEvans/PostDocSurvey
+git clone https://github.com/TeriEvans/PostDocSurvey
 cd PostDocSurvey/
 Jupyter notebook
 ```
